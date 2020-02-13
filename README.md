@@ -4,7 +4,7 @@
 Input text one by one at the end type "EOF"
 
 Example 
-
+```
 glob is I
 prok is V
 pish is X
@@ -23,3 +23,4 @@ glob prok Iron  is 780
 how much wood could a woodchuck chuck if a woodchuck could chuck wood ?
 I have no idea what you are talking about
 EOF
+```
